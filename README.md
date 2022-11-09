@@ -1,6 +1,9 @@
 # face-reco - Face Recognition
 Trainable face recognition using OpenCV and Python.
 
+![image](https://user-images.githubusercontent.com/9197089/200888710-c9ddf61b-3756-48d0-ad42-e05bc8716e90.png)
+
+
 Choose the option to train / recognize face:
 
 ![image](https://user-images.githubusercontent.com/9197089/200853264-1985373f-7bbe-4829-9b5c-7787ea6064f7.png)
